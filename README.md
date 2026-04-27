@@ -1,6 +1,6 @@
 # Hi, I'm Joicy
 
-AI Engineer Aspirant | Python | Machine Learning | Deep Learning
+AI Engineer Aspirant | Python | Machine Learning | Deep Learning | Generative Ai 
 
 ## Skills
 - Python
