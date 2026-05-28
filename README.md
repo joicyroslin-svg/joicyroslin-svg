@@ -84,6 +84,28 @@ Computer Vision-based hand gesture and virtual mouse control system using OpenCV
 - 💼 Machine Learning Intern
 - 🚀 Building real-world AI projects consistently
 
+## 🏆 GSSoC'26 Badges
+
+<p align="center">
+  <img src="badges/gssoc-badge-rising_star%20(1).png" width="120" alt="GSSoC 2026 Rising Star Badge" />
+  <img src="badges/gssoc-badge-first_steps.png" width="120" alt="GSSoC 2026 First Steps Badge" />
+  <img src="badges/gssoc-badge-discord_verified.png" width="120" alt="GSSoC 2026 Discord Verified Badge" />
+  <img src="badges/gssoc-badge-profile_complete.png" width="120" alt="GSSoC 2026 Profile Complete Badge" />
+  <img src="badges/gssoc-badge-point_scorer.png" width="120" alt="GSSoC 2026 Point Scorer Badge" />
+  <img src="badges/gssoc-badge-role_contributor.png" width="120" alt="GSSoC 2026 Contributor Badge" />
+  <img src="badges/gssoc-badge-week_one.png" width="120" alt="GSSoC 2026 Week One Badge" />
+</p>
+
+<p align="center">
+  <b>GirlScript Summer of Code 2026 Contributor</b><br/>
+  Top 4% globally • 7 badges earned • Open-source contributor
+</p>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/f08f7518-1faa-4d40-a8a4-2cf85e788321">
+    View my GSSoC'26 Profile
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
