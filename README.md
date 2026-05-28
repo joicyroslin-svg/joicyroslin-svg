@@ -106,6 +106,7 @@ Computer Vision-based hand gesture and virtual mouse control system using OpenCV
     View my GSSoC'26 Profile
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
